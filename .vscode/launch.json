@@ -1,0 +1,9 @@
+{
+  "configurations": [
+    {
+      "type": "expo",
+      "request": "attach",
+      "name": "Debug app"
+    }
+  ]
+}
